@@ -13,8 +13,7 @@
 - HTML, CSS, SCSS (TailwindCSS, BootsrapCSS, Material-UI)
 - MySQL, SQLite, MongoDB, FireBase, [Rowy](https://www.rowy.io/) (Mongoose, FireStore)
 - Bubble, Adalo, Webflow, YCode, Bildr (No-Code Platforms)
-- 
-#### Many Full Stack Applications I Build are Built using the MERN!
+#### Many Full Stack Applications I Build are Built using the MERN stack!
 
 
 
