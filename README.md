@@ -25,7 +25,7 @@
 
 🔑 keybase • [@mnydev](https://keybase.io/mnydev)  
 
-🐦 twitter • [@mnydev](https://twitter/mnydev)  
+🐦 twitter • [@mnydev](https://twitter/mnyhrndz)  
 
 💬 discord • [mānny#4465](http://discordapp.com/users/475343343040200715)
 
