@@ -26,13 +26,13 @@
 
 🔑 keybase • [@mnydev](https://keybase.io/mnydev)  
 
-🐦 twitter • [@mnydev](https://twitter/mnyhrndz)  
+🐦 twitter • [@mnyhrndz](https://twitter/mnyhrndz)  
 
 💬 discord • [mānny#4465](http://discordapp.com/users/475343343040200715)
 
 ---
 ### Badges
-<p align="center">
+<p align="left">
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
