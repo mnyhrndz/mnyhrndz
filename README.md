@@ -6,12 +6,12 @@
 
 ### Experience
 
-- Python (discord.py, [NumPy](https://numpy.org/), Flask) 
-- JavaScript, Node.js (discord.js, Express)  
+- Python (Discord.py, [NumPy](https://numpy.org/), Flask) 
+- JavaScript, Node.js (Discord.js, Express, Nuxt, Three)  
 - React (Redux, Next.js), Vue (VueX)
 - C ([LVGL](https://github.com/lvgl/lvgl))
 - HTML, CSS, SCSS (TailwindCSS, BootsrapCSS, Material-UI)
-- MySQL, SQLite, MongoDB, FireBase, [Rowy](https://www.rowy.io/) (Mongoose, FireStore)
+- MySQL, SQLite, MongoDB, FireBase, [Rowy](https://www.rowy.io/), Sanity, Redis (Mongoose, FireStore)
 - Bubble, Adalo, Webflow, YCode, Bildr (No-Code Platforms)
 #### Many Full Stack Applications I Build are Built using the MERN stack!
 
